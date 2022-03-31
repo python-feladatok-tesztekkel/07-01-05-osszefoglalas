@@ -1,7 +1,7 @@
 # feladat.py
 
 # 1. feladat
-# Készítsen függvényt megatalható-e néven!
+# Készítsen függvényt megtalalhato néven!
 # A függvény egyik bemeneti paramétere egy lista megyék neveivel. Pl. megyek = ["Bács-Kiskun","Csongrád-Csanád","Fejér","Nógrád","Pest","Tolna"].
 # A másik bemenő paraméter egy keresett megye neve.
 # A függvény határozza meg, hogy a keresett megye szerepel-e a listában!
